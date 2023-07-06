@@ -1,0 +1,2 @@
+omdb api => kumpulan video
+postman, insomnia rest => untuk jembatan dari modb api 
